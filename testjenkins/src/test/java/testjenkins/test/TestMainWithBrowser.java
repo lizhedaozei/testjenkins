@@ -28,6 +28,6 @@ public class TestMainWithBrowser {
 	@AfterClass
 	public static void destory() {
 		System.out.println("destory...");
-		driver.quit();
+//		driver.quit();
 	}
 }
